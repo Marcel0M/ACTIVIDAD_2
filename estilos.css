@@ -1,3 +1,59 @@
-.body{
+body{
     background-color: rgb(71, 71, 71);
+    font-family: sans-serif;
+}
+
+.menu {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    color: white;
+    font-size: 25px;
+}
+
+.main {
+    width: 70%;
+    float: right;
+    padding: 15px;
+    color: white;
+    background-color: rgb(12, 250, 218);
+    margin-right: 5%;
+}
+
+.main1 {
+    width: 70%;
+    float: right;
+    padding: 15px;
+    color: white;
+    background-color: yellow;
+    margin-right: 5%;
+}
+
+.main2 {
+    width: 70%;
+    float: right;
+    padding: 15px;
+    color: white;
+    background-color: rgb(255, 81, 0);
+    margin-right: 5%;
+}
+
+.main3 {
+    width: 70%;
+    float: right;
+    padding: 15px;
+    color: white;
+    background-color: red;
+    margin-right: 5%;
+}
+
+h1{
+    font-weight: bolder;
+    text-align: justify;
+}
+
+p{
+    text-align:center;
+    font-size: 15px;
+    text-align: justify;
 }
